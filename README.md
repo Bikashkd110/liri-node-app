@@ -30,9 +30,16 @@ moment
 node-spotify-api
 request
 
-/Users/bikashkadariya/Desktop/assignment10/images/Screen Shot 2019-08-02 at 5.51.02 PM.png
-/Users/bikashkadariya/Desktop/assignment10/images/Screen Shot 2019-08-03 at 10.10.01 AM.png
-/Users/bikashkadariya/Desktop/assignment10/images/Screen Shot 2019-08-03 at 10.34.00 AM.png
-/Users/bikashkadariya/Desktop/assignment10/images/Screen Shot 2019-08-03 at 11.19.43 AM.png
-/Users/bikashkadariya/Desktop/assignment10/images/Screen Shot 2019-08-03 at 11.31.04 AM.png
+Below are the screen shots of My CLI
+
+<img width="564" alt="Screen Shot 2019-08-02 at 5 51 02 PM" src="https://user-images.githubusercontent.com/49846962/62415131-761b8300-b5ea-11e9-8f2e-891613bcf5c0.png">
+
+<img width="565" alt="Screen Shot 2019-08-03 at 10 10 01 AM" src="https://user-images.githubusercontent.com/49846962/62415137-8df30700-b5ea-11e9-88a4-6dcf5436fcd9.png">
+
+<img width="1041" alt="Screen Shot 2019-08-03 at 10 34 00 AM" src="https://user-images.githubusercontent.com/49846962/62415138-90edf780-b5ea-11e9-9f13-0a13952357d5.png">
+
+<img width="1038" alt="Screen Shot 2019-08-03 at 11 19 43 AM" src="https://user-images.githubusercontent.com/49846962/62415139-93505180-b5ea-11e9-97d1-7f59b15d7862.png">
+
+<img width="1038" alt="Screen Shot 2019-08-03 at 11 31 04 AM" src="https://user-images.githubusercontent.com/49846962/62415142-95b2ab80-b5ea-11e9-90f1-0938c6d77257.png">
+
 
